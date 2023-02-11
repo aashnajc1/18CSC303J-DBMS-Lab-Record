@@ -1,0 +1,5 @@
+Syntax - desc <tablename>;
+
+Q) Print the description of the table student
+
+And) desc student;
