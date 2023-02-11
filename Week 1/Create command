@@ -1,0 +1,8 @@
+Syntax - create table <tablename>(<column1> <datatype>, <column2> <datatype>,.....);
+
+Q) Create a table student which has the following columns:
+  -Name
+  -Regno
+  -Department
+  
+Ans) create table student(name varchar(30),regno varchar(30), department varchar(30));
