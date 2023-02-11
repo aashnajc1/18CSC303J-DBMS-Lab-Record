@@ -1,0 +1,7 @@
+Truncate command is used to remove all rows from the table, but the structure remains intact.
+
+Syntax - truncate table <tablename>;
+
+Q) Remove all the rows of the table student
+
+And) truncate table student;
