@@ -1,0 +1,7 @@
+Drop command is used to remove an existing table along with its structure.
+
+Syntax - drop table <tablename>;
+
+Q) Delete the table student
+
+Ans) drop table student;
