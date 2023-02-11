@@ -1,0 +1,7 @@
+Syntax - alter table <tablename> 
+         add <columnname> <datatype>;
+         
+         
+Q) Add a column names 'branch' into the table student
+
+Ans) alter table student add branch varchar(40);
