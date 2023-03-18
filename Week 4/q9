@@ -1,0 +1,4 @@
+/* Q) Insert data in to the EMP table not satisfying the foreign key constraints. Notice the error
+and mention it .*/
+
+integrity constraint(RA2011027010009 SYS_C006073) violated - not found
