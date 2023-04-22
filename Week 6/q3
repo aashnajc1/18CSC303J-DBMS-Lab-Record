@@ -1,11 +1,8 @@
 Q) what is the difference between the queries
 
 i) select count(comm) from emp;
-
 ii)select count(null(comm,0)) from emp;
 
 -> They differe in how they handle null values in the comm column of the table
-
 -> First query counts the number of values
-
 -> The second query uses the null function to find the null values.
