@@ -7,4 +7,4 @@ where
 deptno = 20
 group by job 
 having
-average_salar > 7000;
+average_salary > 7000;
