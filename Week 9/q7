@@ -1,0 +1,12 @@
+ Q) Execute the following query and then try to delete the row with deptno 20.
+Now write in words that you understand
+create or replace view empv20 as 
+  select * from emp where deptno=20
+  with check option constraint empv20_ck;
+
+The given query creates or replaces a view names empv20 that selects all the columns
+from the emp table where the deptno = 20. 
+The view also has a check option constraint named empv20_ck
+
+The check option constraint ensures that any data modification to the view
+only affects rows that meet the view filers criteria.
