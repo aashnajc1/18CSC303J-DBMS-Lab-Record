@@ -9,4 +9,3 @@ Begin
   t_scale := 'c';
   dbms_output.out_line('The new temparature scale' || t_scale || 'is : ' || new_temp);
   end;
-  
