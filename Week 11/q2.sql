@@ -14,7 +14,7 @@ begin
   end if;
 end;
 
-// procedure created
+# procedure created
 
 set serveroutput on;
 declare
